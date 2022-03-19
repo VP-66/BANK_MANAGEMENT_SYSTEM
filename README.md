@@ -5,8 +5,13 @@
 **Introduction:**
 
 The project which I have created illustrates and replicates an online bank management system. Users can create and/or access an account within the bank that displays a randomly generated balance and can transfer money between the account types provided and can deposit and withdraw cash. Users are also able to apply for a fixed and variable rate home loan and get an instant decision if the loan is approved.
-Class Diagram of the banking system:
+
+**Class Diagram of the banking system:**
+
 The class diagram below is constructed to produce a blueprint of the banking system. The diagram highlights the explicit relationships between the classes and objects used in the system-moreover, how the classes and objects interact with each other.
+
+<img width="786" alt="Screen Shot 2022-03-19 at 11 09 29 am" src="https://user-images.githubusercontent.com/99856161/159099883-d8cfa9f8-ca82-423c-8790-12a336dfa4c0.png">
+
     
 **Class Descriptions:**
 
