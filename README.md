@@ -1,5 +1,7 @@
 # BANK_MANAGEMENT_SYSTEM
 
+**Note: Run the Makefile to access and use the program. ENJOY!**
+
 **Project By Vidit Patel.**
 
 **Introduction:**
