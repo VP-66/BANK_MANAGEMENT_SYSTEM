@@ -1,0 +1,15 @@
+echo Test 01 Deposit func:
+./output < input01.txt | diff - DepositTest.txt
+echo Test 02 Withdraw func:
+./output < input02.txt | diff - WithdrawTest.txt
+echo Test 03 Transfer func:
+./output < input03.txt | diff - TransferTest.txt
+echo Test 04 NewAccount func:
+./output < input04.txt | diff - NewAccountTest.txt
+echo Test 05 ShowAccount func:
+./output < input05.txt | diff - ShowAccountTest.txt
+echo Test 06 ModifyAccount func:
+./output < input06.txt | diff - ModifyAccountTest.txt
+echo Test 07 DepositIntoAccount func:
+./output < input07.txt | diff - DepositIntoAccountTest.txt
+

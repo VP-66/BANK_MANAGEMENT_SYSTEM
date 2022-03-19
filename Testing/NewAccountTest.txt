@@ -1,0 +1,98 @@
+___________________________________________________________
+
+WELCOME TO OUR INTERNET BANKING SYSTEM!
+___________________________________________________________
+
+Please enter your username: Please enter your password (8-16 characters): 
+Hello vidit!
+
+Enter 1 for Accounts or 2 for Loans or 3 to exit the program : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		lOAN MENU
+====================================================
+1. NEW LOAN ACCOUNT
+2. SHOW EXISTING ACCOUNT
+3. CHANGE LOAN TYPE TO VARIABLE
+4. DEPOSIT ON EXISTING ACCOUNT
+5. LOG OUT
+====================================================
+Select an Option: 
+Which type of account would you like: 
+
+1. Fixed rate 
+
+2. Variable rate 
+
+Select an Option: 
+
+NEW HOME LOAN ACCOUNT FORM
+====================================================
+Enter Account Name: Enter borrowing limit (from $100k upto $1million): Enter life of Loan (up to 30 years): Enter current annual salary (Nearest whole number): Enter initial deposit saved (Nearest whole number): 
+GREAT! YOU ARE CONDITIONALLY APPROVED FOR THIS FIXED LOAN!
+
+At an interest rate of 5.73% the details of the repayments are: 
+
+Total Loan repayment is: $841127
+
+Total amount of interest paid is: $341127
+
+Your principal and interest repayments would be $3505 per month
+
+====================================================
+Do you wish to:
+
+1. Continue using the software
+
+2. Exit the software
+
+Select an Option: Thankyou for using our system!

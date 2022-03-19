@@ -1,0 +1,192 @@
+___________________________________________________________
+
+WELCOME TO OUR INTERNET BANKING SYSTEM!
+___________________________________________________________
+
+Please enter your username: Please enter your password (8-16 characters): 
+Hello vidit!
+
+Enter 1 for Accounts or 2 for Loans or 3 to exit the program : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How much cash do you currently have: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          WELCOME TO ACCOUNTS                        
+ Select from the following actions below what service you were after 
+---------------------------------------------------------------------
+1. Review Account Summaries
+2. Edit Account Details
+3. Deposit Cash
+4. Withdraw Cash
+5. Transfer money between accounts
+6. End Session
+Which service would you like to use: 
+1. Savings, Current Balance: 500
+2. FixedDeposit, Current Balance: 5000
+Which account do you wish to withdraw cash from?: 
+Current cash: 5000
+How much cash do you want to withdraw: 
+Cash successfully withdrawn from FixedDeposit account.
+Current balance of FixedDeposit account is: 4000
+Current cash: 6000
+Enter any key to return to the menu screen: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          WELCOME TO ACCOUNTS                        
+ Select from the following actions below what service you were after 
+---------------------------------------------------------------------
+1. Review Account Summaries
+2. Edit Account Details
+3. Deposit Cash
+4. Withdraw Cash
+5. Transfer money between accounts
+6. End Session
+Which service would you like to use: 
+Enter 1 for Accounts or 2 for Loans or 3 to exit the program : 
+Thankyou for using our program, we hope to see you soon

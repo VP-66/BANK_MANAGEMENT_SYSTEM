@@ -1,0 +1,97 @@
+___________________________________________________________
+
+WELCOME TO OUR INTERNET BANKING SYSTEM!
+___________________________________________________________
+
+Please enter your username: Please enter your password (8-16 characters): 
+Hello vidit!
+
+Enter 1 for Accounts or 2 for Loans or 3 to exit the program : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		lOAN MENU
+====================================================
+1. NEW LOAN ACCOUNT
+2. SHOW EXISTING ACCOUNT
+3. CHANGE LOAN TYPE TO VARIABLE
+4. DEPOSIT ON EXISTING ACCOUNT
+5. LOG OUT
+====================================================
+Select an Option: 
+Which type of account would you like: 
+
+1. Fixed rate 
+
+2. Variable rate 
+
+Select an Option: Your account has been changed to VARIABLE! 
+
+Your new details are: 
+
+Account Number: 51728
+Account Type: variable
+Account balance: -$560000
+Curent interest rate: 7.73%
+Loan life: 15 years 
+Total amount of interest paid is: 275975
+Your principal and interest repayments would be $4645 per month
+
+
+
+====================================================
+Do you wish to:
+
+1. Continue using the software
+
+2. Exit the software
+
+Select an Option: Thankyou for using our system!

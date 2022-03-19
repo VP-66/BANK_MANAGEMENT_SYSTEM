@@ -1,0 +1,79 @@
+___________________________________________________________
+
+WELCOME TO OUR INTERNET BANKING SYSTEM!
+___________________________________________________________
+
+Please enter your username: Please enter your password (8-16 characters): 
+Hello vidit!
+
+Enter 1 for Accounts or 2 for Loans or 3 to exit the program : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		lOAN MENU
+====================================================
+1. NEW LOAN ACCOUNT
+2. SHOW EXISTING ACCOUNT
+3. CHANGE LOAN TYPE TO VARIABLE
+4. DEPOSIT ON EXISTING ACCOUNT
+5. LOG OUT
+====================================================
+Select an Option: There is $560000 remaining on the loan, how much will you like to deposit: Success! There is $460000 remaining on the loan!
+
+
+====================================================
+Do you wish to:
+
+1. Continue using the software
+
+2. Exit the software
+
+Select an Option: Thankyou for using our system!
